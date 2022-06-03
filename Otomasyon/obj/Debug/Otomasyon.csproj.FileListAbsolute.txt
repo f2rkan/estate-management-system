@@ -1,0 +1,12 @@
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.csprojAssemblyReference.cache
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.formLogin.resources
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.formRegister.resources
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.cache
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\furkan\Desktop\m_o\water-dealer-and-personnel-information-management-system-master\Otomasyon\obj\Debug\Otomasyon.pdb
