@@ -4,10 +4,6 @@ It's a project I developed to reinforce the structures on C# that I learned in a
 
 Structures required for installation and execute:
 
-Eclipse IDE
-Java SE 17
-MySQL Connector 8.0.29
-JavaFX SDK 18.0.1
-For Database: AMPPS
-Run Configuration - Arguments: --module-path "C:\Users\furkan\jdk\javafx-sdk-18.0.1\lib" --add-modules javafx.controls,javafx.fxml
-After //--module-path you need to point the path of lib folder of sdk 18.0.1.
+Visual Studio 17
+MsSQL
+You must make the information about the database the same as the information in the ServerConnection class file inside the file, or you must define a new database and write this information in the code pages.
